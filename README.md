@@ -4,7 +4,7 @@
 
 
 
-This is tiny application about how React works under the hood, specifically, how Virtual dom is represented in Memory and how it handle to update only Modified dom node inserted of update whole part of application.
+This is tiny application about how React works under the hood, specifically, how Virtual dom is represented in Memory and the way it handles updating only Modified dom node instead of whole part of application.
 
 Also written in detail, how React manage State by hooks (specifically built-in Hook useState) and lifecycle features
 
